@@ -1,0 +1,8 @@
+git commit
+git branch
+git push
+git pull
+git checkout
+git status
+git log --oneline
+git --set-upstream
